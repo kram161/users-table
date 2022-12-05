@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "i": "^0.3.7"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1",
+    "webpack": "^5.75.0"
+  }
+}
