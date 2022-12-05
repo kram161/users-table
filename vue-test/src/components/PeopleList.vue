@@ -68,7 +68,6 @@ export default {
   },
   methods: {
     addUser () {
-      console.log(this.users[this.parent].name)
       if (!this.userName || !this.userPhone) return
       let newUser = {
         name: this.userName,
